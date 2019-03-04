@@ -393,12 +393,5 @@ dbSendQuery(con,"SET GLOBAL local_infile = 1;") ### to write values to local swi
 dbWriteTable(con, "predictors_list", retail_predictors, overwrite = TRUE)
 
 
-####### impelemnt of r shinny for visulization###########
 
-
-
-
-##################shinny app dployment#########
-
-setwd("D://project excelr")
 
