@@ -17,7 +17,7 @@ install.packages("lubridate")
   
   
   
-  retail_data<- read.csv("D://project excelr//sagar_consolidated.csv")
+  retail_data<- read.csv("D://project//sagar_consolidated.csv")
   
   View(retail_data)
   summary(retail_data)
